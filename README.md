@@ -1,6 +1,6 @@
 # arXiVius
 
-> "Stay hungry, stay foolish."
+> "no."
 
 
 <!---
